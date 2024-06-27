@@ -1,0 +1,33 @@
+{
+  "libraryId": "generated",
+  "id": "2j_RJbl_dI",
+  "componentId": "AB1bXTkUZg",
+  "name": "Name",
+  "description": "",
+  "status": "saved",
+  "orderIdx": "03qKK",
+  "revision": 2,
+  "model": "",
+  "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: h8N_P7fid2 */ .-grid--custom[data-instance-id=\"h8N_P7fid2\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"h8N_P7fid2\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 8; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"h8N_P7fid2\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":8},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"h8N_P7fid2\"><div class=\"-card\"><h1 class=\"headline__text\" style=\"margin-left:-3px;\">Join us in Nashville!</h1><div class=\"hero__lead\"><p>Registration is open for Sitecore’s biggest event of the year October 15-18, 2024. Super Early Bird deals available now.</p></div></div></section>",
+  "diff": {},
+  "breakpointIds": null,
+  "datasourceIds": [],
+  "isEmbeddable": false,
+  "forkOriginId": null,
+  "forkOriginRevision": 0,
+  "forkedAt": null,
+  "classList": [
+    "-theme--default"
+  ],
+  "createdAt": "2024-06-25T17:19:35.072Z",
+  "deletedAt": null,
+  "modifiedAt": "2024-06-25T17:20:18.928Z",
+  "modifiedBy": {
+    "id": "6387c3e21179b065497e9605",
+    "name": "Wendy Derstine",
+    "givenName": "Wendy",
+    "familyName": "Derstine",
+    "email": "wendy.derstine@sitecore.com",
+    "picture": "https://s.gravatar.com/avatar/0d4ca3b23a68587de6fd28fc9e4829d2?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fwe.png"
+  }
+}
