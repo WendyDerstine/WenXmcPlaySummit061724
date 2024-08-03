@@ -3,9 +3,9 @@
   "href": "https://api-us.boxever.com/v3/flowDefinitions/7a47f91f-92a3-427c-95d8-7906939fde8b",
   "ref": "7a47f91f-92a3-427c-95d8-7906939fde8b",
   "name": "embedded_{scope}_82749b4f67aa46eab2d1f85007c33f7e_en",
-  "modifiedByRef": "auth0|6387c3e21179b065497e9605",
-  "modifiedAt": "2024-06-26T15:16:51.721Z",
-  "revision": 2,
+  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
+  "modifiedAt": "2024-07-31T23:59:28.179Z",
+  "revision": 6,
   "archived": false,
   "friendlyId": "embedded_{scope}_82749b4f67aa46eab2d1f85007c33f7e_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-06-26T15:16:51.848Z",
+    "modifiedAt": "2024-07-31T23:59:28.197Z",
     "splits": [
       {
         "template": "{\"variantId\": \"8af6caaee884428eb1c691afa477d4d0\"}",
@@ -56,7 +56,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "e456c68c-a63d-4406-b4c9-e59f6ff4f2e8",
+      "ref": "51ea948a-09e5-4dbb-868f-8c7f2483a466",
       "name": "July Promo",
       "tasks": [
         {
@@ -89,7 +89,7 @@
   "status": "PRODUCTION",
   "schedule": {
     "type": "simpleSchedule",
-    "startDate": "2024-06-26T15:16:07.36Z"
+    "startDate": "2024-06-26T15:16:07.036Z"
   },
   "revisions": {
     "href": "https://api-us.boxever.com/v3/flowDefinitions/7a47f91f-92a3-427c-95d8-7906939fde8b/revisions"
@@ -98,5 +98,6 @@
     "baseValue": 0.15,
     "minimumDetectableDifference": 0.02,
     "confidenceLevel": 0.95
-  }
+  },
+  "notificationEnabled": false
 }

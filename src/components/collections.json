@@ -31,19 +31,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "CKK8KsYPZS",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-06-26T15:27:18.866Z",
-            "modifiedAt": "2024-06-26T15:27:18.866Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -68,19 +56,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "3L9MHSruA_",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-06-26T14:01:08.006Z",
-            "modifiedAt": "2024-06-26T14:01:08.006Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -105,19 +81,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "iZP71rcjrO",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-06-25T20:43:02.359Z",
-            "modifiedAt": "2024-06-25T20:43:02.359Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   },
@@ -333,19 +297,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "AB1bXTkUZg",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-06-25T17:19:34.764Z",
-            "modifiedAt": "2024-06-25T17:19:34.764Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",

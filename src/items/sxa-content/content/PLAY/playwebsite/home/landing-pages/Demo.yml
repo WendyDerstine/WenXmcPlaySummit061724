@@ -3,7 +3,6 @@ ID: "5ac4ed51-e253-4caa-a384-f42f77e303d1"
 Parent: "4d587c56-3717-41cb-936c-5d0412a50b6b"
 Template: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
 Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/Demo"
-BranchID: "c21cb9f5-9d4c-4904-b199-538835128fa3"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -118,8 +117,8 @@ Languages:
       Value: Demo
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b2b71cae-74db-4655-93fb-1893bf6d1b3c"
+      Value: "7af88e35-344e-4067-9af1-edf657d7c0c7"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: |
-        <div class="ck-content"><p><strong>Morbi</strong> eu vehicula mi, a congue sapien. Mauris vitae leo lectus. Nam luctus urna molestie massa pellentesque, a porttitor augue varius. Duis dictum nisl metus, non luctus nunc accumsan non. Sed augue libero, condimentum mollis placerat in, tempus ut sapien. Praesent sed purus id sem convallis molestie vitae a ligula. Sed ac sodales velit. Donec fringilla, felis nec luctus auctor, lectus urna lacinia nisl, sit amet viverra eros ipsum eu libero. Nullam tincidunt nisl id magna dictum rhoncus. Aliquam erat volutpat. Duis commodo ante risus, eu lacinia diam porttitor non. Proin faucibus rutrum dolor, non dignissim ligula. Nam facilisis mi vehicula lacus dapibus molestie.</p><p>&nbsp;</p></div>
+        <div class="ck-content"><p><strong>Morbi</strong> eu vehicula mi, a congue sapien. Mauris vitae leo lectus. Nam luctus urna molestie massa pellentesque, a porttitor augue varius. Duis dictum nisl metus, non luctus nunc accumsan non. Sed augue libero, condimentum mollis placerat in, tempus ut sapien. Praesent sed purus id sem convallis molestie vitae a ligula. Sed ac sodales velit. Donec fringilla, felis nec luctus auctor, lectus urna lacinia nisl, sit amet viverra eros ipsum eu libero. Nullam tincidunt nisl id magna dictum rhoncus. Aliquam erat volutpat. Duis commodo ante risus, eu lacinia diam porttitor non. Proin faucibus rutrum dolor, non dignissim ligula. Nam facilisis mi vehicula lacus dapibus molestie.</p><figure class="image"><img style="aspect-ratio:820/312;" src="https://wd-xmc.sitecoresandbox.cloud/api/public/content/84d8d627d213421a997797722cdbcae6?v=05f80174" alt="best-workout-apps-to-use-while-traveling_header.jpg" width="820" height="312" /></figure><p>&nbsp;</p></div>
