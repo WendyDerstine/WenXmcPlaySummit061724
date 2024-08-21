@@ -1,0 +1,18 @@
+﻿---
+ID: "1c8b8efa-d3a1-4cde-807d-2efb7f308777"
+Parent: "29f4360a-af81-4443-a66b-36eea34364a5"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/Dentons/Data"
+BranchID: "6c07c9a2-87c4-418f-aa22-9e5d6c382e9e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3D05F0AD-9E47-45CB-A6D4-FBA22E4477BC}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b243df38-c4a3-4cb5-bd33-d9f45b5275f4"

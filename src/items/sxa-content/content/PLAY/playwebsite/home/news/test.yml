@@ -1,0 +1,37 @@
+﻿---
+ID: "47cbc2e0-12b6-44de-867f-cd9c2cda09c9"
+Parent: "0e4a63da-7496-557e-bf80-5bd52255e431"
+Template: "4b8f13a2-ef1a-4a41-857d-a2191fd7c1e7"
+Path: /sitecore/content/PLAY/playwebsite/home/news/test
+SharedFields:
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: DCLnBRB2TrO9qOE3EYABZQ
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{AE3D3123-7A1D-4B0D-914C-E4F857650778}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: test
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5452a1d2-a7e3-421c-a6ee-dc69e58bf206"
+      Hint: Title
+      Value: asdfasdf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a5d668e-3ad2-455a-b9e8-80268f8f2c02"
+    - ID: "ec2ff3e7-0a21-4808-8cf8-c13ccd6fffc8"
+      Hint: Excerpt
+      Value: asdfasdf
+    - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
+      Hint: pageTitle
+      Value: test
+    - ID: "f7d201d9-0ae6-4afa-8c5c-777f0504ebc3"
+      Hint: Content
+      Value: <p>asdfasdfasdf</p>

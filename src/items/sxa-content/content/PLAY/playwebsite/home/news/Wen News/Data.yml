@@ -1,0 +1,13 @@
+﻿---
+ID: "2946d6c6-85f1-4cd8-94aa-cbaa01da068a"
+Parent: "ed98beb2-b145-4a9c-b88a-f4ef835e0e9d"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/PLAY/playwebsite/home/news/Wen News/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d7ff7b7-7523-4a70-8587-6df8a743b5ef"

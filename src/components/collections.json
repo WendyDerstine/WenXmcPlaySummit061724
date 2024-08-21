@@ -100,24 +100,36 @@
         "collectionId": "zR51jI-vfn",
         "name": "Promo",
         "description": "",
-        "status": "published",
+        "status": "changed",
         "versionCount": 2,
         "stagedVersionCount": 2,
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2023-05-29T11:31:03.424Z",
         "stagedAt": "2023-08-02T09:22:21.595Z",
-        "publishedAt": "2023-08-02T09:22:34.204Z",
-        "modifiedAt": "2023-08-02T09:22:34.204Z",
+        "publishedAt": "2023-08-02T09:22:21.595Z",
+        "modifiedAt": "2024-08-18T19:55:21.135Z",
         "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
+          "id": "6387c3e21179b065497e9605",
+          "name": "Wendy Derstine",
+          "email": "wendy.derstine@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/0d4ca3b23a68587de6fd28fc9e4829d2?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fwe.png",
+          "givenName": "Wendy",
+          "familyName": "Derstine"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "NIgQ4zdtlQ",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-08-18T19:55:20.732Z",
+            "modifiedAt": "2024-08-18T19:55:20.732Z"
+          }
+        ]
       },
       {
         "libraryId": "generated",
@@ -155,6 +167,45 @@
     "createdAt": "2023-05-29T12:20:23.406Z",
     "modifiedAt": "2023-05-29T12:20:23.406Z",
     "components": [
+      {
+        "libraryId": "generated",
+        "id": "OT-Dh_gdNR",
+        "collectionId": "JYYIXneyeG",
+        "name": "Dynamic Promo",
+        "description": "",
+        "status": "changed",
+        "versionCount": 2,
+        "stagedVersionCount": 2,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [
+          "dfed4457d760457abec1c0dccdc44381"
+        ],
+        "createdAt": "2023-05-29T11:31:03.424Z",
+        "stagedAt": "2023-08-02T09:19:21.395Z",
+        "publishedAt": "2023-08-02T09:19:29.666Z",
+        "modifiedAt": "2024-08-18T19:55:32.687Z",
+        "modifiedBy": {
+          "id": "6387c3e21179b065497e9605",
+          "name": "Wendy Derstine",
+          "email": "wendy.derstine@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/0d4ca3b23a68587de6fd28fc9e4829d2?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fwe.png",
+          "givenName": "Wendy",
+          "familyName": "Derstine"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "OT-Dh_gdNR",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-08-18T19:55:32.284Z",
+            "modifiedAt": "2024-08-18T19:55:32.284Z"
+          }
+        ]
+      },
       {
         "libraryId": "generated",
         "id": "FnbXCgP1cr",
@@ -235,33 +286,6 @@
           "familyName": "Kostadinova"
         },
         "bundles": []
-      },
-      {
-        "libraryId": "generated",
-        "id": "OT-Dh_gdNR",
-        "collectionId": "JYYIXneyeG",
-        "name": "Dynamic Promo",
-        "description": "",
-        "status": "published",
-        "versionCount": 2,
-        "stagedVersionCount": 2,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [
-          "dfed4457d760457abec1c0dccdc44381"
-        ],
-        "createdAt": "2023-05-29T11:31:03.424Z",
-        "stagedAt": "2023-08-02T09:19:21.395Z",
-        "publishedAt": "2023-08-02T09:19:29.666Z",
-        "modifiedAt": "2023-08-02T09:19:29.666Z",
-        "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
-        },
-        "bundles": []
       }
     ]
   },
@@ -297,7 +321,19 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "AB1bXTkUZg",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-08-18T19:56:32.406Z",
+            "modifiedAt": "2024-08-18T19:56:32.406Z"
+          }
+        ]
       },
       {
         "libraryId": "generated",
@@ -463,7 +499,7 @@
         "collectionId": "-AC8JhQZKV",
         "name": "Athletes",
         "description": "Sample component featuring Athletes from connected Content Hub ONE instance.",
-        "status": "published",
+        "status": "changed",
         "versionCount": 1,
         "stagedVersionCount": 1,
         "embeddableVersionCount": 1,
@@ -473,16 +509,113 @@
         "createdAt": "2023-11-15T17:27:04.26Z",
         "stagedAt": "2023-11-16T18:10:05.908Z",
         "publishedAt": "2023-11-16T18:10:05.908Z",
-        "modifiedAt": "2023-11-16T18:10:05.908Z",
+        "modifiedAt": "2024-08-18T19:56:06.641Z",
         "modifiedBy": {
-          "id": "63ed31bdc5dac322725263de",
-          "name": "Alexander Doroshenko",
-          "email": "alexander.doroshenko@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/df9103e3d366714986d5e437d998bf3d?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fal.png",
-          "givenName": "Alexander",
-          "familyName": "Doroshenko"
+          "id": "6387c3e21179b065497e9605",
+          "name": "Wendy Derstine",
+          "email": "wendy.derstine@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/0d4ca3b23a68587de6fd28fc9e4829d2?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fwe.png",
+          "givenName": "Wendy",
+          "familyName": "Derstine"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "TlH-4IjNyG",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-08-18T19:56:06.341Z",
+            "modifiedAt": "2024-08-18T19:56:06.341Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "libraryId": "generated",
+    "id": "yHDzyfbzUs",
+    "name": "Demo",
+    "isDefault": false,
+    "orderIdx": "",
+    "createdAt": "2024-08-19T21:57:34.088Z",
+    "modifiedAt": "2024-08-19T21:57:34.088Z",
+    "components": [
+      {
+        "libraryId": "generated",
+        "id": "s-RNrfXPj4",
+        "collectionId": "yHDzyfbzUs",
+        "name": "Demo",
+        "description": "",
+        "status": "published",
+        "versionCount": 1,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2024-08-20T14:17:35.428Z",
+        "stagedAt": "2024-08-20T14:20:38.934Z",
+        "publishedAt": "2024-08-20T14:20:38.934Z",
+        "modifiedAt": "2024-08-20T14:20:38.934Z",
+        "modifiedBy": {
+          "id": "6387c3e21179b065497e9605",
+          "name": "Wendy Derstine",
+          "email": "wendy.derstine@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/0d4ca3b23a68587de6fd28fc9e4829d2?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fwe.png",
+          "givenName": "Wendy",
+          "familyName": "Derstine"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "s-RNrfXPj4",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-08-20T14:17:43.452Z",
+            "modifiedAt": "2024-08-20T14:17:43.452Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
+        "id": "nXsM8ZrjiZ",
+        "collectionId": "yHDzyfbzUs",
+        "name": "Hero",
+        "description": "",
+        "status": "published",
+        "versionCount": 1,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2024-08-19T21:57:44.656Z",
+        "stagedAt": "2024-08-19T22:09:17.998Z",
+        "publishedAt": "2024-08-19T22:09:17.998Z",
+        "modifiedAt": "2024-08-19T22:09:17.998Z",
+        "modifiedBy": {
+          "id": "6387c3e21179b065497e9605",
+          "name": "Wendy Derstine",
+          "email": "wendy.derstine@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/0d4ca3b23a68587de6fd28fc9e4829d2?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fwe.png",
+          "givenName": "Wendy",
+          "familyName": "Derstine"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "nXsM8ZrjiZ",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-08-19T21:57:52.3Z",
+            "modifiedAt": "2024-08-19T21:57:52.3Z"
+          }
+        ]
       }
     ]
   }

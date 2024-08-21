@@ -1,0 +1,18 @@
+﻿---
+ID: "36219219-213d-4004-9139-00d1916dcdea"
+Parent: "002d2d02-6721-4c55-82bf-f50302325398"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/Wen Demo/Data"
+BranchID: "6c07c9a2-87c4-418f-aa22-9e5d6c382e9e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3D05F0AD-9E47-45CB-A6D4-FBA22E4477BC}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cffdf8b1-6e1f-423c-84cd-c6af95cb0a0d"
