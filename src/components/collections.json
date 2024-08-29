@@ -106,7 +106,7 @@
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2023-05-29T11:31:03.424Z",
-        "stagedAt": "2023-08-02T09:22:21.595Z",
+        "stagedAt": null,
         "publishedAt": "2023-08-02T09:22:21.595Z",
         "modifiedAt": "2024-08-18T19:55:21.135Z",
         "modifiedBy": {
@@ -117,19 +117,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "NIgQ4zdtlQ",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-08-18T19:55:20.732Z",
-            "modifiedAt": "2024-08-18T19:55:20.732Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -181,7 +169,7 @@
           "dfed4457d760457abec1c0dccdc44381"
         ],
         "createdAt": "2023-05-29T11:31:03.424Z",
-        "stagedAt": "2023-08-02T09:19:21.395Z",
+        "stagedAt": null,
         "publishedAt": "2023-08-02T09:19:29.666Z",
         "modifiedAt": "2024-08-18T19:55:32.687Z",
         "modifiedBy": {
@@ -192,19 +180,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "OT-Dh_gdNR",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-08-18T19:55:32.284Z",
-            "modifiedAt": "2024-08-18T19:55:32.284Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -321,19 +297,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "AB1bXTkUZg",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-08-18T19:56:32.406Z",
-            "modifiedAt": "2024-08-18T19:56:32.406Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -507,7 +471,7 @@
           "Athlete"
         ],
         "createdAt": "2023-11-15T17:27:04.26Z",
-        "stagedAt": "2023-11-16T18:10:05.908Z",
+        "stagedAt": null,
         "publishedAt": "2023-11-16T18:10:05.908Z",
         "modifiedAt": "2024-08-18T19:56:06.641Z",
         "modifiedBy": {
@@ -518,19 +482,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "TlH-4IjNyG",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-08-18T19:56:06.341Z",
-            "modifiedAt": "2024-08-18T19:56:06.341Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   },
@@ -566,19 +518,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "s-RNrfXPj4",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-08-20T14:17:43.452Z",
-            "modifiedAt": "2024-08-20T14:17:43.452Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -603,19 +543,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "nXsM8ZrjiZ",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-08-19T21:57:52.3Z",
-            "modifiedAt": "2024-08-19T21:57:52.3Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }

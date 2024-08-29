@@ -3,9 +3,9 @@
   "href": "https://api-us.boxever.com/v3/flowDefinitions/e82924da-610b-4628-abfe-08268573f364",
   "ref": "e82924da-610b-4628-abfe-08268573f364",
   "name": "embedded_{scope}_29f4360aaf814443a66b36eea34364a5_en",
-  "modifiedByRef": "auth0|6387c3e21179b065497e9605",
-  "modifiedAt": "2024-08-20T14:08:38.455Z",
-  "revision": 2,
+  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
+  "modifiedAt": "2024-08-28T17:34:04.132Z",
+  "revision": 4,
   "archived": false,
   "friendlyId": "embedded_{scope}_29f4360aaf814443a66b36eea34364a5_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-08-20T14:08:38.487Z",
+    "modifiedAt": "2024-08-28T17:34:04.199Z",
     "splits": [
       {
         "template": "{\"variantId\": \"cd65f05ef8ae451fac14a941a5dc9191\"}",
@@ -57,7 +57,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "1c0d6654-7c1f-4646-84e2-6b6f90a4ded1",
+      "ref": "3b9d236d-9a1e-45b7-b27d-0f990397173a",
       "name": "Aug Promo",
       "tasks": [
         {
