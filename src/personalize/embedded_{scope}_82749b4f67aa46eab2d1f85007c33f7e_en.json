@@ -4,8 +4,8 @@
   "ref": "7a47f91f-92a3-427c-95d8-7906939fde8b",
   "name": "embedded_{scope}_82749b4f67aa46eab2d1f85007c33f7e_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-09-05T15:13:51.142Z",
-  "revision": 18,
+  "modifiedAt": "2024-09-19T14:30:21.513Z",
+  "revision": 20,
   "archived": false,
   "friendlyId": "embedded_{scope}_82749b4f67aa46eab2d1f85007c33f7e_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-09-05T15:13:51.156Z",
+    "modifiedAt": "2024-09-19T14:30:21.53Z",
     "splits": [
       {
         "template": "{\"variantId\": \"8af6caaee884428eb1c691afa477d4d0\"}",
@@ -56,7 +56,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "4867379c-60b7-43d9-8ad1-c7430d9bd0cf",
+      "ref": "8504c70a-15fb-44b1-8f1a-f87b022cc739",
       "name": "July Promo",
       "tasks": [
         {

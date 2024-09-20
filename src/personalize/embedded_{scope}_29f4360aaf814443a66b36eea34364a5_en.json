@@ -4,8 +4,8 @@
   "ref": "e82924da-610b-4628-abfe-08268573f364",
   "name": "embedded_{scope}_29f4360aaf814443a66b36eea34364a5_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-09-05T15:13:49.934Z",
-  "revision": 6,
+  "modifiedAt": "2024-09-19T14:30:20.124Z",
+  "revision": 8,
   "archived": false,
   "friendlyId": "embedded_{scope}_29f4360aaf814443a66b36eea34364a5_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-09-05T15:13:49.96Z",
+    "modifiedAt": "2024-09-19T14:30:20.256Z",
     "splits": [
       {
         "template": "{\"variantId\": \"cd65f05ef8ae451fac14a941a5dc9191\"}",
@@ -57,7 +57,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "8ef4dbe3-1fe6-4126-a9f3-f16b27073e3c",
+      "ref": "0c320218-89e8-4b21-9b0d-bfbdd4897d85",
       "name": "Aug Promo",
       "tasks": [
         {
